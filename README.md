@@ -27,3 +27,5 @@ git clone https://github.com/jonathanNavarr0/magic-shell.git
 cd magic-shell
 2. Instala las dependencias
 pip install -r requirements.txt
+### 2. Instala las dependencias
+pip install -r requirements.txt
