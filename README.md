@@ -21,7 +21,7 @@
 
 | Comando          | Descripción                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| `!motivame`      | Te lanza una frase motivadora aleatoria para seguir dándolo todo 🚀        |
+| `!motivame`      | Te Lanza una frase motivadora aleatoria para seguir dándolo todo 🚀        |
 | `!track tiempo`  | Inicia un cronómetro hasta que lo detengas con `Ctrl+C` ⏱️                 |
 | `!focus`         | Bloquea páginas web distractoras como YouTube o Instagram 🚫                |
 | `!unfocus`       | Desbloquea los sitios bloqueados anteriormente ✅                           |
